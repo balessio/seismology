@@ -1,0 +1,9 @@
+PROJECTION:spstere
+MIN_LATITUDE:-68
+MAX_LATITUDE:-32
+MIN_LONGITUDE:102
+MAX_LONGITUDE:168
+QUAKEML_FILE:inputs/QUAKEML/event_in_2017.xml
+NETCDF4_FILE:inputs/smith_sandwell_topo_v8_2.nc
+IMAGE_PATH:outputs/focalMechs/recalc/2017/
+WAVE_PATH:inputs/MSEED/square_SEIR_waves_2002to2018/2017L-49,164M6.5/

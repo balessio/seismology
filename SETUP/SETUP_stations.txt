@@ -1,0 +1,3 @@
+IN_PATH:inputs/MSEED/square_SEIR_waves_2002to2018/2016L-54,158M6.0/
+OUT_PATH:outputs/waves/square_SEIR_waves_2002to2018/2016L-54,158M6.0/
+EVENT_ID:609261308

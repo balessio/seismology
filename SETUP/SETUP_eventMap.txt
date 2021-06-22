@@ -1,0 +1,8 @@
+PROJECTION:spstere
+MIN_LATITUDE:-68
+MAX_LATITUDE:-32
+MIN_LONGITUDE:102
+MAX_LONGITUDE:168
+QUAKEML_FILE:inputs/QUAKEML/square_SEIR_events_2002to2018.xml
+NETCDF4_FILE:inputs/smith_sandwell_topo_v8_2.nc
+IMAGE_FILE:outputs/events/square_SEIR_events_2002to2018.png

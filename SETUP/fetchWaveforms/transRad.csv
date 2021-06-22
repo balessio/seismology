@@ -1,0 +1,4 @@
+﻿MSEED_FILE:,"square_SEIR_waves_2002to2018/2017L-49,164M6.5/transRad/",,,,
+Network,Station,Location,Channel,Start time,End time
+S,AU*,*,"BHT,BHR",2017-07-11T06:55:06.300000,2017-07-11T07:55:06.300000
+"II,IU,G",*,*,"BHT,BHR",2017-07-11T06:55:06.300000,2017-07-11T07:55:06.300000
